@@ -15,3 +15,5 @@ I noticed that the line separators added some unexpected text formatting.
 They turned most of these sentences into subheadings.
 I didn't like what it looked like so I removed them after merging branch1 with master.
 
+I just deleted [branch1]! I think I've got the basics down! 
+\(^_^)/~~~ Weee!
