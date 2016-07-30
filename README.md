@@ -17,3 +17,7 @@ I didn't like what it looked like so I removed them after merging branch1 with m
 
 I just deleted [branch1]! I think I've got the basics down! 
 \(^_^)/~~~ Weee!
+
+I just created a tag named 1.0.0_Basics. 
+This serves as a milestone marker for me after learning the basics of git.
+I will update this repo again when I learn more advanced operations.
